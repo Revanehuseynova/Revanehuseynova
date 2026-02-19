@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Revane 👋</h1>
 <p align="center">
-  💻 Computer Engineering student <br>
+  💻 Computer Science student <br>
   🌱 Learning and exploring programming languages including **C, C++, Python, HTML, CSS** <br>
   🚀 Sharing my learning journey on GitHub
 </p>
@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Computer Engineering student  
+- 🎓 Computer Science student  
 - 💡 Interested in software development and programming  
 - 📚 Have basic knowledge in **C, C++, Python, HTML, CSS**  
 - 🌍 Working on improving my **English skills**  
